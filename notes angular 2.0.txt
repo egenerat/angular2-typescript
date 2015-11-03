@@ -1,0 +1,5 @@
+npm install angular2
+
+static file server
+npm install -g live-server
+live-server
